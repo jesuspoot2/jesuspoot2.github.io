@@ -1,0 +1,54 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#imgPerfil{
+    width: 350px;
+    height: 350px;
+    float: left;
+    
+}
+
+#nombre{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+}
+#datos{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+}
+#colors1{
+    background-color:  #5d9b9b;
+    height: 235px;
+}
+
+
+#ctm{
+   background-color: #804000;
+ height: 800px;
+}
+
+#imgEstudios{
+    width: 35px;
+    height: 35px;
+}
+
+#estudios{
+    float: left;
+    color: white;
+}
+
+.textazul{
+    color: blue;
+}
+
+#tamano{
+    font-weight: 900;
+    color: grey;
+}
+
